@@ -15,7 +15,7 @@ const RightBanner = () => {
         alt="bannerImg"
       />
       <div className="absolute   flex justify-center items-center  rounded-lg">
-        <div className="w-[415px] h-[415px] bg-white opacity-10 rounded-full object-cover "></div>
+        <div className="w-[315px] h-[315px] lgl:w-[415px] lgl:h-[415px] bg-white opacity-10 rounded-full object-cover "></div>
       </div>
     </div>
   );
